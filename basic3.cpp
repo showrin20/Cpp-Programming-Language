@@ -7,6 +7,7 @@ int main() {
   cout << "Hi! \n\n";//two line gap
   cout << "I am Showrin \n";
   cout << "I Love" << endl;
+  //special characters
   cout << "learning C++\n";
   cout << "C++ is a \t"; //same line with tab
   cout << "interesting language\n";
